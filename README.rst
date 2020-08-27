@@ -9,11 +9,7 @@ Quick Start
 Installation
 ^^^^^^^^^^^^
 
-Install and update this package using `pip <https://pip.pypa.io/en/stable/quickstart/>`_ or `pipenv <https://docs.pipenv.org/en/latest/>`_:
 
-.. code-block:: console
-
-    $ pip install -U edgar-downloader
 
 Example Usage
 ^^^^^^^^^^^^^
